@@ -1,8 +1,5 @@
-host: rakyll.pizza
+host: zeromesh.dev
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /voyager-haproxy:
+    repo: https://github.com/appscode/voyager
