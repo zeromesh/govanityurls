@@ -1,5 +1,9 @@
-host: zeromesh.dev
+host: voyagermesh.dev
 
 paths:
-  /voyager-haproxy:
-    repo: https://github.com/appscode/voyager
+  /docs:
+    repo: https://github.com/voyagermesh/docs
+  /installer:
+    repo: https://github.com/voyagermesh/etcd
+  /voyager:
+    repo: https://github.com/voyagermesh/voyager
