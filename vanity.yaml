@@ -3,6 +3,8 @@ host: voyagermesh.dev
 paths:
   /docs:
     repo: https://github.com/voyagermesh/docs
+  /hello-grpc:
+    repo: https://github.com/voyagermesh/hello-grpc
   /installer:
     repo: https://github.com/voyagermesh/etcd
   /voyager:
